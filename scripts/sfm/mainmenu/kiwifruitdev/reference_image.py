@@ -1,6 +1,7 @@
 # SFM Reference Image
 # A script that uses image APIs or a custom URL to display images in Source Filmmaker.
 # https://github.com/KiwifruitDev/sfm_reference_image
+# https://steamcommunity.com/sharedfiles/filedetails/?id=3238130704
 # Based on https://github.com/KiwifruitDev/sfm_sample_script
 # This software is licensed under the MIT License.
 # Copyright (c) 2024 KiwifruitDev

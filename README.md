@@ -3,6 +3,8 @@ Show an image in a tab to help with reference or inspiration.
 
 Load from disk, paste from clipboard, or download from URL.
 
+[View Workshop submission](https://steamcommunity.com/sharedfiles/filedetails/?id=3238130704)
+
 ## Installation
 **It is recommended to install this script from the Steam Workshop.**
 This script may be updated occasionally.
