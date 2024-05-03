@@ -9,8 +9,8 @@ This script may be updated occasionally.
 
 For advanced (-nosteam) users only, choose an alternate installation method:
 
-- Clone the [url=https://github.com/KiwifruitDev/sfm_reference_image]GitHub repository[/url] into your SourceFilmmaker/game/ directory and add the folder to your gameinfo.txt file.
-- Download the [url=https://github.com/KiwifruitDev/sfm_reference_image/blob/main/scripts/sfm/mainmenu/kiwifruitdev/reference_image.py]script[/url] as a raw *.py file and place it into SourceFilmmaker/game/usermod/scripts/sfm/mainmenu/kiwifruitdev/ (create the folders if they don't exist).
+- Clone the [GitHub repository](https://github.com/KiwifruitDev/sfm_reference_image) into your SourceFilmmaker/game/ directory and add the folder to your gameinfo.txt file.
+- Download the [script](https://github.com/KiwifruitDev/sfm_reference_image/blob/main/scripts/sfm/mainmenu/kiwifruitdev/reference_image.py) as a raw *.py file and place it into SourceFilmmaker/game/usermod/scripts/sfm/mainmenu/kiwifruitdev/ (create the folders if they don't exist).
 
 ## Usage
 This script must be run each time SFM is started.
